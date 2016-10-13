@@ -1,6 +1,6 @@
 <strong>Dean De Coster</strong>
 
-![alt](C:\Users\DeanDeCoster\Pictures\dean.jpg)
+<img src="C:\Users\DeanDeCoster\Pictures\dean.jpg">
 
 <strong>Adres:</strong> Lostraat 191 1760 Roosdaal</br>
 <strong>Geboorte datum:</strong> 25 april 1996</br>

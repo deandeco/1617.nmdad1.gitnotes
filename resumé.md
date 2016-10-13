@@ -1,20 +1,20 @@
 Dean De Coster
 
-Lostraat 191 1760 Roosdaal
-25 april 1996
-man
-belg
-vrijgezel
-0499233772
-dean.decoster@student.arteveldehs.be
+Adres: Lostraat 191 1760 Roosdaal</br>
+Geboorte datum: 25 april 1996</br>
+Geslacht: man</br>
+Nationaliteit: belg</br>
+Burgerlijke staat: ongehuwd</br>
+Telefoonnummer: 0499233772</br>
+E-mailadres: dean.decoster@student.arteveldehs.be
 
-Grafische Communicatie - Grafische en digitale media
+Opleidingen: Grafische Communicatie - Grafische en digitale media
 
-software: Premiere pro, after effects, dreamweaver, indesign, illustrator, photoshop
-programmeertalen: html, css, javascript, jquery
+Software: Premiere pro, after effects, dreamweaver, indesign, illustrator, photoshop</br>
+Programmeertalen: html, css, javascript, jquery
 
-talenkennis: nederlands - zeer goed
-            frans - matig
+Talenkennis: nederlands - zeer goed</br>
+            frans - matig</br>
             engels - goed
 
-interesses: 2d en 3d animatie, video
+Interesses: 2d en 3d animatie, video
